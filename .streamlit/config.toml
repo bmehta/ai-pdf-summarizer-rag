@@ -1,0 +1,8 @@
+# Fix "AxiosError: 403" on st.file_uploader when XSRF/session cookies don't match
+# the URL (e.g. switching between localhost and 127.0.0.1, reverse proxies, some hosts).
+# Tradeoff: weaker CSRF protection — acceptable for local dev; reconsider for public prod.
+[server]
+enableXsrfProtection = false
+
+# Uncomment if uploads still fail behind a custom domain or iframe:
+# enableCORS = false
