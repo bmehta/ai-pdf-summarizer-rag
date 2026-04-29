@@ -1,4 +1,4 @@
-# 📄 AI PDF Summarizer & Q&A
+# 📄 AI PDF Summarizer & RAG Q&A
 
 A "smart" PDF tool that lets you **upload any PDF document** and either get an
 AI-generated summary or ask natural-language questions about its content.
