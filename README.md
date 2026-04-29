@@ -1,9 +1,16 @@
+
 # 📄 AI PDF Summarizer & RAG Q&A
 
 A "smart" PDF tool that lets you **upload any PDF document** and either get an
 AI-generated summary or ask natural-language questions about its content.
 Built with **Streamlit**, **LangChain**, **FAISS**, and the **OpenAI API** using a
 Retrieval-Augmented Generation (RAG) architecture.
+
+
+
+https://github.com/user-attachments/assets/ff2741c2-97a5-4a6d-9080-b72d34652ece
+
+
 
 ---
 
